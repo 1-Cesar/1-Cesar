@@ -38,7 +38,7 @@
 ##
 
 <div>
-    <img src="https://github.com/rafaballerini/1-Cesar/raw/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/1-Cesar/1-Cesar/raw/output/github-contribution-grid-snake.svg">
 </div>
   
 ## 
