@@ -42,7 +42,7 @@
 ## 
  
 <div>  
-  <img alight="right" src="https://cdn.discordapp.com/attachments/918719262540050475/918719563552657408/giphy.gif">
+  <img alight="center" src="https://cdn.discordapp.com/attachments/918719262540050475/918719563552657408/giphy.gif">
 </div>
   
 
