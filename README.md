@@ -25,7 +25,6 @@
    <img align="center" alt="Cesar-Javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Cesar-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="Cesar-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-   
 </div>
   
 ##
@@ -42,8 +41,5 @@
 ## 
  
 <div>  
-  <img alight="center" src="https://cdn.discordapp.com/attachments/918719262540050475/918719563552657408/giphy.gif">
+  <img align="center" alt="Cesar-DathVader" src="https://cdn.discordapp.com/attachments/918719262540050475/918719563552657408/giphy.gif">
 </div>
-  
-
-
