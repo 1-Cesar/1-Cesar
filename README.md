@@ -1,11 +1,13 @@
-## Opaaa !!! Meu nome é Cesar Augusto.
+<h1>Opaaa !!! Meu nome é Cesar Augusto.</h1>
 
 * Quero trabalhar como Dev. Fullstack Java Jr. 🚀
 * Estou estudando Java ☕
 * Contate-me no e-mail: cesar.desenvolvedor@gmail.com 📧
 * Pronome: Ele/Dele 😉
 * Adoro praticas esportes ⚽
-
+<br>
+<br>
+<div align="center"> 
 <div>
     <a href="https://github.com/1-Cesar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1-Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -40,6 +42,6 @@
   
 ## 
  
-<div>  
+ 
   <img align="center" alt="Cesar-DathVader" src="https://cdn.discordapp.com/attachments/918719262540050475/918719563552657408/giphy.gif">
 </div>
