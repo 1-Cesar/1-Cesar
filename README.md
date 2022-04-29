@@ -2,10 +2,10 @@
 
 * Quero trabalhar como Dev. Fullstack Java Jr. 🚀
 * Em constante aprendizado ☕
-* Contate-me no e-mail: cesar.desenvolvedor@gmail.com 📧
+* Fale comigo através deste e-mail: cesar.desenvolvedor@gmail.com 📧
 * Pronome: Ele/Dele 😉
-* Adoro praticas esportes ⚽
-* Portfólio: https://portfolio-cesar.netlify.app/
+* Portfólio: https://portfolio-cesar.netlify.app/ 💻
+* Entre meus hobbies estão: praticar esportes ⚽ e jogar um bom game 🎮
 <br>
 <br>
 <div align="center"> 
