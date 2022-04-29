@@ -1,10 +1,11 @@
 <h1>Opaaa !!! Meu nome é Cesar Augusto.</h1>
 
 * Quero trabalhar como Dev. Fullstack Java Jr. 🚀
-* Estou estudando Java ☕
+* Em constante aprendizado ☕
 * Contate-me no e-mail: cesar.desenvolvedor@gmail.com 📧
 * Pronome: Ele/Dele 😉
 * Adoro praticas esportes ⚽
+* Portfólio: https://portfolio-cesar.netlify.app/
 <br>
 <br>
 <div align="center"> 
