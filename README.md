@@ -4,7 +4,6 @@
 * Em constante aprendizado ☕
 * Fale comigo através deste e-mail: cesar.desenvolvedor@gmail.com 📧
 * Pronome: Ele/Dele 😉
-* Portfólio: https://portfolio-cesar.netlify.app/ 💻
 * Entre meus hobbies estão: praticar esportes ⚽ e jogar um bom game 🎮
 <br>
 <br>
