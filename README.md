@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo !!! Meu nome é Cesar Augusto.</h1>
 
-* Estagiario Back-end na DBC Company 🚀
+* Desenvolvedor Back-end na DBC Company 🚀
 * Em constante aprendizado ☕
 * Fale comigo através deste e-mail: cesar.desenvolvedor@gmail.com 📧
 * Pronome: Ele/Dele 😉
