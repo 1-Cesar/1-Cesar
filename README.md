@@ -7,12 +7,13 @@
 <br>
 <br>
 <div align="center"> 
+    <!--
 <div>
     <a href="https://github.com/1-Cesar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1-Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Cesar&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
+  -->
 <div style="display: inline_block"><br>
    <img align="center" alt="Cesar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Cesar-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
